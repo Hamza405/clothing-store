@@ -55,7 +55,7 @@ class _DetailItemState extends State<DetailItem> {
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.only(
                       topRight: Radius.circular(35.0),
-                      topLeft: Radius.circular(35.0),
+                      topLeft: Radius.circular(36.0),
                     ),
                     color: Colors.white,
                   ),
